@@ -38,6 +38,9 @@
 ------------------------------------
 
 1. api_testor_is_online
++ URL: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_is_online.md
+
+2. api_testor_has_right
 + URL:
 
 ```
