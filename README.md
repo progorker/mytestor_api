@@ -73,6 +73,9 @@
 + URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_case.md
 
 9. api_testor_suite_case
++ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite_case.md
+
+10. api_testor_clean
 + URL: 
 
 ```
