@@ -70,7 +70,9 @@
 + URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite.md
 
 8. api_testor_case
-+ URL: 
++ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_case.md
 
+9. api_testor_suite_case
++ URL: 
 
 ```
