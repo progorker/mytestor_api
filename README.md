@@ -30,6 +30,14 @@
 ------------------------------------
 
 1. testor_welcome
++ URL: https://github.com/progorker/mytestor-api/blob/main/table/testor_welcome.md
+
+
+-------|__/-------------------------
+            FUNCTIONS
+------------------------------------
+
+1. api_testor_is_online
 + URL:
 
 ```
