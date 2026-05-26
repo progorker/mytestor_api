@@ -39,54 +39,68 @@
 ------------------------------------
 
 1. api_testor_is_online
-+ URL: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_is_online.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_is_online.md
++ HTML: https://progorker.github.io/mytestor-api/function/api_testor_is_online.html
 
 2. api_testor_has_right
-+ URL: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_has_right.md
-
++ MD: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_has_right.md
++ HTML: 
 
 -------|__/-------------------------
             PROCEDURES
 ------------------------------------
 
 1. api_testor_login
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_login.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_login.md
++ HTML: 
 
 2. api_testor_logout
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_logout.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_logout.md
++ HTML: 
 
 3. api_testor_current_user
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_current_user.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_current_user.md
++ HTML: 
 
 4. api_testor_user_rights
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_user_rights.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_user_rights.md
++ HTML: 
 
 5. api_testor_change_password
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_change_password.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_change_password.md
++ HTML: 
 
 6. api_testor_create_user
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_create_user.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_create_user.md
++ HTML: 
 
 7. api_testor_suite
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite.md
++ HTML: 
 
 8. api_testor_case
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_case.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_case.md
++ HTML: 
 
 9. api_testor_suite_case
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite_case.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite_case.md
++ HTML: 
 
 10. api_testor_clean
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_clean.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_clean.md
++ HTML: 
 
 11. api_testor_test
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_test.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_test.md
++ HTML: 
 
 12. api_testor_finish
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_finish.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_finish.md
++ HTML: 
 
 13. api_testor_result
-+ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_result.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_result.md
++ HTML: 
 
 
 ```
