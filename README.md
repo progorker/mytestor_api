@@ -44,7 +44,8 @@
 
 2. api_testor_has_right
 + MD: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_has_right.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/function/api_testor_has_right.html
+
 
 -------|__/-------------------------
             PROCEDURES
