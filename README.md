@@ -77,7 +77,7 @@
 
 7. api_testor_suite
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_suite.html
 
 8. api_testor_case
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_case.md
