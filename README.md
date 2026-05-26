@@ -85,7 +85,7 @@
 + URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_finish.md
 
 13. api_testor_result
-+ URL:
++ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_result.md
 
 
 ```
