@@ -30,7 +30,8 @@
 ------------------------------------
 
 1. testor_welcome
-+ URL: https://github.com/progorker/mytestor-api/blob/main/table/testor_welcome.md
++ MD: https://github.com/progorker/mytestor-api/blob/main/table/testor_welcome.md
++ HTML: https://progorker.github.io/mytestor-api/table/testor_welcome.html
 
 
 -------|__/-------------------------
