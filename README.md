@@ -89,7 +89,7 @@
 
 10. api_testor_clean
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_clean.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_clean.html
 
 11. api_testor_test
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_test.md
