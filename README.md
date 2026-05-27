@@ -143,5 +143,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_success.md
 + HTML: 
 
+24. api_testor_error
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_error.md
++ HTML: 
+
 
 ```
