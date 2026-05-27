@@ -131,5 +131,10 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_source_list.md
 + HTML:
 
+21. api_testor_true
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_true.md
++ HTML:
+
+
 
 ```
