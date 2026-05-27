@@ -14,7 +14,7 @@
                SYNTAX
 ------------------------------------
 
-api_testor_e_procedures (
+procedure api_testor_e_procedures (
   in p_mysql_database varchar(8192),
   in p_find varchar(8192),
   out p_names mediumtext
