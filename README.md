@@ -115,6 +115,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_e_procedures.md
 + HTML: 
 
+17. api_testor_e_tables
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_e_tables.md
++ HTML: 
 
 
 ```
