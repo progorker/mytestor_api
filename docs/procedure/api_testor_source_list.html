@@ -104,6 +104,7 @@ procedure api_testor_source_list (
 
 $) set @v_token = '_'; call api_testor_login( @v_token, 'mytestor', 'rzutomqahegpnyx' ); select @v_token;
 
+  </div><div class="dtt-page-inner" style="border-left: dashed 2px gainsboro; width: 95mm; padding-left: 5px;">
     ----------------------------
 
 +----------------------------------+
@@ -113,7 +114,7 @@ $) set @v_token = '_'; call api_testor_login( @v_token, 'mytestor', 'rzutomqaheg
 +----------------------------------+
 
     ----------------------------
-  </div><div class="dtt-page-inner" style="border-left: dashed 2px gainsboro; width: 95mm; padding-left: 5px;">
+
 $) set @v_case_id = -1; set @v_suite_id = -1; call api_testor_suite_case( '8003c6c90940e847a8e01897b4a93e4d', @v_suite_id, @v_case_id, 'sterry', 'table-users' ); select @v_case_id, @v_suite_id;
 
     ----------------------------
@@ -127,7 +128,11 @@ $) set @v_case_id = -1; set @v_suite_id = -1; call api_testor_suite_case( '8003c
     ----------------------------
 
 $) set @v_data = '/bioogr/works/mysterry'; call api_testor_option( '8003c6c90940e847a8e01897b4a93e4d', 1, @v_data, 'src_dir', false ); set @v_data = null; call api_testor_option( '8003c6c90940e847a8e01897b4a93e4d', 1, @v_data, 'src_dir', false ); select @v_data;
+    
+  </div></div>
 
+  <div class="dtt-page-counter-cover"><div class="dtt-page-counter-inner"><div style="top: 10px" class="dtt-page-counter"><div>2</div></div></div></div>
+  <div class="dtt-page"><div class="dtt-page-inner">
     ----------------------------
 
 +------------------------+
@@ -137,11 +142,7 @@ $) set @v_data = '/bioogr/works/mysterry'; call api_testor_option( '8003c6c90940
 +------------------------+
 
     ----------------------------
-    
-  </div></div>
 
-  <div class="dtt-page-counter-cover"><div class="dtt-page-counter-inner"><div style="top: 10px" class="dtt-page-counter"><div>2</div></div></div></div>
-  <div class="dtt-page"><div class="dtt-page-inner">
 $) set @v_data = '/src/table/table_users.sql'; call api_testor_option( '8003c6c90940e847a8e01897b4a93e4d', 1, @v_data, 'src:table_users', false ); set @v_data = null; call api_testor_option( '8003c6c90940e847a8e01897b4a93e4d', 1, @v_data, 'src:table_users', false ); select @v_data;
 
     ----------------------------
@@ -155,7 +156,8 @@ $) set @v_data = '/src/table/table_users.sql'; call api_testor_option( '8003c6c9
     ----------------------------
 
 $) call api_testor_source_list( '8003c6c90940e847a8e01897b4a93e4d', 1 );
-
+    
+  </div><div class="dtt-page-inner" style="border-left: dashed 2px gainsboro; width: 95mm; padding-left: 5px;">
     ----------------------------
 
 +-------------+-----------------+----------------------------+--------------------------------------------------+
@@ -166,11 +168,7 @@ $) call api_testor_source_list( '8003c6c90940e847a8e01897b4a93e4d', 1 );
 
     ----------------------------
     
-  </div><div class="dtt-page-inner" style="border-left: dashed 2px gainsboro; width: 95mm; padding-left: 5px;">
-    
   </div></div>
-
-
   
 </body>
 </html>
