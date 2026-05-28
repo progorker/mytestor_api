@@ -153,7 +153,7 @@
 
 26. api_testor_not_equals
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_equals.md
-+ HTML:
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_not_equals.html
 
 27. api_testor_greater_than
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_greater_than.md
