@@ -169,11 +169,11 @@
 
 30. api_testor_not_less_than
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_less_than.md
-+ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_less_than.html
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_not_less_than.html
 
 31. api_testor_same
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_same.md
-+ HTML:
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_same.html
 
 32. api_testor_not_same
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_same.md
