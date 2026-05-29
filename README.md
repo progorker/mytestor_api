@@ -177,7 +177,7 @@
 
 32. api_testor_not_same
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_same.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_not_same.html
 
 33. api_testor_contains
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_contains.md
