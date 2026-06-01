@@ -94,7 +94,8 @@ body {
 
 procedure api_testor_success (
   in p_token varchar(36),
-  in p_suite_id int
+  in p_suite_id int,
+  in p_page_no bigint
 )
 
 
@@ -190,7 +191,7 @@ Expected: true
 
     ----------------------------
 
-$) call api_testor_success( '8003c6c90940e847a8e01897b4a93e4d', 1 );
+$) call api_testor_success( '8003c6c90940e847a8e01897b4a93e4d', 1, 1 );
 
     ----------------------------
 
