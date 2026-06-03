@@ -195,5 +195,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_man.md
 + HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_man.html
 
+37. api_testor_pattern
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_pattern.md
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_pattern.html
+
 
 ```
