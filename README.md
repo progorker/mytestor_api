@@ -51,6 +51,14 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_has_right.md
 + HTML: https://progorker.github.io/mytestor-api/function/api_testor_has_right.html
 
+3. api_testor_escape
++ MD: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_escape.md
++ HTML: https://progorker.github.io/mytestor-api/function/api_testor_escape.html
+
+4. api_testor_unescape
++ MD: https://github.com/progorker/mytestor-api/blob/main/function/api_testor_unescape.md
++ HTML: https://progorker.github.io/mytestor-api/function/api_testor_unescape.html
+
 
 -------|__/-------------------------
             PROCEDURES
