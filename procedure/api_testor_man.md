@@ -28,6 +28,8 @@ procedure api_testor_man (
 
 + 'mytestor'
 + 'mytestorproxy'
++ 'phptestor'
++ 'pytestor'
 
 
     ----------------------------
